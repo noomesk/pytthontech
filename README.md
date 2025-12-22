@@ -68,7 +68,7 @@ Angie Plazas (noomesk) - Esp. en Bioinformática
 
 ##  Contribuciones
 
-¡Las contribuciones son bienvenidas! Por favor, lee las [pautas de contribución](CONTRIBUTING.md) para más detalles, puedes visitar mi página y dejarme un mensaje en la sección de contacto, te responderé lo más pronto posible: noomesk.vercel.app 
+¡Las contribuciones son bienvenidas! Por favor, lee las [pautas de contribución](CONTRIBUTING.md) para más detalles, puedes visitar mi página y dejarme un mensaje en la sección de contacto, te responderé lo más pronto posible :) [noomesk](https://noomesk.vercel.app)
 
 ---
 
