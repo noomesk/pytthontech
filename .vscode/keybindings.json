@@ -1,0 +1,9 @@
+[
+    {
+        "key": "ctrl+enter",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Ejecutar Python",
+        "when": "editorTextFocus && editorLangId == 'python'"
+    }
+]
+
