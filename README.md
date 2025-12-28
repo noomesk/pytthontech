@@ -73,5 +73,5 @@ Angie Plazas (noomesk) - Esp. en Bioinformática
 ---
 
 <div align="center">
-  <p>JEJEJDS Esto es OPENSOURCE para futuros bioinformáticos y gente q quiera aprender python porque si. El conocimiento es poder amigos</p>
+  <p>JEJEJDS Esto es OPENSOURCE para futuros bioinformáticos y gente q quiera aprender python porque si. El conocimiento es poder amikoss</p>
 </div>
