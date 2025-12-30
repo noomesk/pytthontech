@@ -67,6 +67,7 @@ Este material está disponible bajo la licencia [MIT](LICENSE).
 Angie Plazas (noomesk) - Esp. en Bioinformática
 
 ##  Contribuciones
+FASTQ
 
 ¡Las contribuciones son bienvenidas! Por favor, lee las [pautas de contribución](CONTRIBUTING.md) para más detalles, puedes visitar mi página y dejarme un mensaje en la sección de contacto, te responderé lo más pronto posible :) [noomesk](https://noomesk.vercel.app)
 
