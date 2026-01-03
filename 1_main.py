@@ -9,3 +9,4 @@ usar cuando necesitemos comentarios largos, aunque
 los comentarios largos hacen que el codigo se vea sucio.
  """
  
+#preferiblemente usar comentarios de una linea 
