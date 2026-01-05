@@ -1,5 +1,5 @@
 #estos operadores nos permiten hacer comparaciones entre valores
-#por ejemplo comparar ya sean num int o float
+#por ejemplo comparar ya sean num int (entero) o float (decimal)
 #son: ==, !=, >, <, >=, <=
 # != (significa distinto o diferente)
 # == (significa igual)
