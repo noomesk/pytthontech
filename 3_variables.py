@@ -5,7 +5,7 @@ Por ejemplo: <variable> = <valor>
 #no, ya que python es un lenguaje de programación de tipado dinámico
 #Eso quiere decir q nuestras variables van a inferir su tipo de acuerdo al valor que le asignemos. 
 
-name = "Angie"
+name = "Pao"
 print(name)
 
 #para ejecutar el codigo: ctrl+f5 sin depuración y f5 con dep
