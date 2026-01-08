@@ -11,11 +11,11 @@
 #Siempre que usemos estos operadores obbtendremos un booleano.
 
 number_one = 10 
-number_zwei = 20 
+number_zwei = 40
 
 #result = number_one == number_zwei
 #print (result)
-#como 10 no es igual a 20, obtenemos False
+#como 10 no es igual a 40, obtenemos False
 #print(type(result))
 
 #ahora probemos con otro operador:
