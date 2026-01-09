@@ -19,7 +19,7 @@ number_zwei = 40
 #print(type(result))
 
 #ahora probemos con otro operador:
-result = number_one <= number_zwei
+result = number_one <= number_zwei dos
 print (result)
 print(type(result))
 
