@@ -40,7 +40,7 @@ segundos_totales = 5000
 es para los f-strings (formatted string literals), una característica de Python 3.6+ 
 que hace que sea más fácil formatear cadenas. PILlA, POR EJEMPLO:
 
-nombre = "Ana"
+nombre = "Angie"
 edad = 25
 
 # Sin f-string (forma antigua)
