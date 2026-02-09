@@ -1,5 +1,5 @@
 #int
-number = 10
+number = 11
 result = number + 18
 #para concatenar usamos la , así:
 print("El resultado es: ", result)
