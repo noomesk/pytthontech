@@ -1,6 +1,6 @@
 #int
 number = 11
-result = number + 18
+result = number + 16
 #para concatenar usamos la , así:
 print("El resultado es: ", result)
 #también podemos usar una resta como -10 o una multiplicación
