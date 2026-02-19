@@ -30,7 +30,7 @@ programadores (y para ti mismo) de que el valor no debe
  Es solo una convención, no una restricción del 
  lenguaje.
  
- . "Solo lectura" en este contexto significa:
+ . "Solo lectura" en este contexto significa de manera literal:
 Intención: El valor no debería ser modificado 
 después de su definición. Z.B: 
 TASA_IVA = 0.19  # Se espera que esto no cambie
