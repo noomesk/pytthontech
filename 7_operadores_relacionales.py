@@ -10,7 +10,7 @@
  
 #Siempre que usemos estos operadores obbtendremos un booleano.
 
-number_one = 100
+number_one = 101
 number_zwei = 40
 
 #result = number_one == number_zwei
