@@ -1,4 +1,4 @@
-#Este es un comentario de una sola línea
+#Este es un comentario de una linea, importante
 
 print("Hola mundo desde un script en python")
 """Este es un comentario de varias líneas,
